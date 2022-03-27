@@ -25,7 +25,7 @@ const About = () => {
                         <article className='about__card'>
                             <RiAwardFill className='about__icon' />
                             <h5>Experience</h5>
-                            <small>1+ Years Working</small>
+                            <small>&gt; 1 year</small>
                         </article>
 
                         <article className='about__card'>
@@ -40,8 +40,9 @@ const About = () => {
                             <small>4+ Completed</small>
                         </article>
                     </div>
-                    <p>This is about page. Add this page with whatever I want to add about me. T
-                        his is about page. Add this page with whatever I want to add about me.
+                    <p>Currently working in OCBC as a React Hybird Mobile Developer.
+                        During my free time, I enjoy playing outdoor water sports and work on my professional skills by learning new things.
+                        I strongly believe in lifelong learning as it fuels our knowledge and skills in meaningful ways.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
