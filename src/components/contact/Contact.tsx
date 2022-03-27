@@ -3,7 +3,7 @@ import { useRef } from 'react';
 import "./contact.css"
 
 import { MdOutlineEmail } from 'react-icons/md'
-import { BiMessageRoundedDetail } from 'react-icons/bi'
+// import { BiMessageRoundedDetail } from 'react-icons/bi'
 import { BsWhatsapp } from 'react-icons/bs'
 
 import emailjs from 'emailjs-com'
@@ -40,7 +40,7 @@ const Contact = () => {
                         <BsWhatsapp className="contact__option-icon" />
                         <h4>Whatsapp</h4>
                         <h5></h5>
-                        <a href="https://web.whatsapp.com/send?phone=+6591522754" target="_blank">Send a message</a>
+                        <a href="https://web.whatsapp.com/send?phone=+6591522754" target="_blank" rel="noreferrer">Send a message</a>
                     </article>
                 </div>
                 {/* end of contact options */}

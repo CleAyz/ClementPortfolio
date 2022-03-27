@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import './header.css'
 import HEADERPHOTO from '../../assets/profile2.png'
 import HeaderSocials from './HeaderSocials'

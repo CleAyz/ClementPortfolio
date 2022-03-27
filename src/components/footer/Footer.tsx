@@ -3,7 +3,7 @@ import './footer.css'
 import { FaFacebookF } from 'react-icons/fa'
 import { FiInstagram } from 'react-icons/fi'
 import { BiUpArrowCircle } from 'react-icons/bi'
-import { IoLogoTwitter } from 'react-icons/io'
+// import { IoLogoTwitter } from 'react-icons/io'
 
 const Footer = () => {
     return (
