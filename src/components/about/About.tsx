@@ -40,8 +40,8 @@ const About = () => {
                             <small>4+ Completed</small>
                         </article>
                     </div>
-                    <p>Currently working in OCBC as a React Hybird Mobile Developer.
-                        During my free time, I enjoy playing outdoor water sports and work on my professional skills by learning new things.
+                    <p>I am a React Hybird Mobile Developer currently in OCBC Bank.
+                        I enjoy playing outdoor water sports and work on my professional skills by learning new things during my free time.
                         I strongly believe in lifelong learning as it fuels our knowledge and skills in meaningful ways.
                     </p>
 
