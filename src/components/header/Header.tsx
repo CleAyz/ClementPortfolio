@@ -7,7 +7,7 @@ import Resume from './Resume'
 const Header = () => {
 
     return (
-        <header>
+        <header id="#">
             <div className="container header__container" >
                 <h5 className="typewriter">Hello I'm </h5>
                 <div className="fade">
