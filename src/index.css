@@ -11,7 +11,7 @@
 
 :root {
     --color-bg: #242323;
-    --color-bg-variant: #21214e;
+    --color-bg-variant: #2c2c2c;
     --color-primary: #787b7c;
     --color-primary-variant: rgba(6, 144, 243, 0.4);
     --color-white: #fff;
@@ -133,6 +133,6 @@ img {
         width: var(--container-width-sm);
     }
     section>h2 {
-        margin-top: 2rem;
+        margin-top: 0rem;
     }
 }
