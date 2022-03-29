@@ -5,10 +5,14 @@ import { FiInstagram } from 'react-icons/fi'
 import { BiUpArrowCircle } from 'react-icons/bi'
 // import { IoLogoTwitter } from 'react-icons/io'
 
-const Footer = () => {
+const Footer = (props: any) => {
+    const { navToState } = props;
     return (
         <footer>
-            <a href="#" className='footer__logo'><BiUpArrowCircle /></a>
+            <a href="#" className='footer__logo' onClick={() => {
+                navToState('#')
+
+            }}><BiUpArrowCircle /></a>
 
             <ul className='permalinks'>
                 <li><a href="#">Home</a></li>
