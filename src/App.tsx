@@ -21,7 +21,7 @@ function App() {
       <Nav navToState={navToState} activeNav={activeNav} />
       <About />
       <Experience />
-      <Projects />
+      {/* <Projects /> */}
       <Contact />
       <Footer navToState={navToState} />
     </>
