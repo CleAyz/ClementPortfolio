@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ClementPortfolio/static/css/main.9a8206ba.css",
+    "main.js": "/ClementPortfolio/static/js/main.7e906230.js",
+    "static/media/profile2.png": "/ClementPortfolio/static/media/profile2.97c371f86e5f0b5a60c4.png",
+    "static/media/pic1.jpeg": "/ClementPortfolio/static/media/pic1.6efca2c02d3fc31d25df.jpeg",
+    "static/media/cv.pdf": "/ClementPortfolio/static/media/cv.2b370e257ff5a2643cb8.pdf",
+    "index.html": "/ClementPortfolio/index.html",
+    "main.9a8206ba.css.map": "/ClementPortfolio/static/css/main.9a8206ba.css.map",
+    "main.7e906230.js.map": "/ClementPortfolio/static/js/main.7e906230.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8206ba.css",
+    "static/js/main.7e906230.js"
+  ]
+}
