@@ -25,7 +25,7 @@ const About = () => {
                         <article className='about__card'>
                             <RiAwardFill className='about__icon' />
                             <h5>Experience</h5>
-                            <small>&gt; 1 year</small>
+                            <small>&gt; 2 year</small>
                         </article>
 
                         <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
                             <small>4+ Completed</small>
                         </article>
                     </div>
-                    <p>I am a React Hybird Mobile Developer currently in OCBC Bank.
+                    <p>I am a Mobile Developer for React and Android currently in OCBC Bank
                         I enjoy playing outdoor water sports and work on my professional skills by learning new things during my free time.
                         I strongly believe in lifelong learning as it fuels our knowledge and skills in meaningful ways.
                     </p>

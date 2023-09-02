@@ -44,7 +44,7 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience__details-icons' />
                             <div>
                                 <h4>Android Native</h4>
-                                <small className='text-light'>Basic</small>
+                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                         <article className='experience__details'>
